@@ -1,2 +1,0 @@
-A="hehe"
-echo $A
